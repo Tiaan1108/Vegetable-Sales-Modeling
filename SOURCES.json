@@ -1,0 +1,44 @@
+[
+  {
+    "project": "vegetable-sales-modeling",
+    "file": "notebooks/lstm_demand_draft.ipynb",
+    "source": "23建模/q3.ipynb",
+    "original_sha256": "c05b0b8e374b02eccbfff8750721954deee1f3d2996ab65a8ec0405cec4b1086",
+    "changes": "Code cells retained; outputs, assignment prose, execution counts and personal metadata removed; paths sanitized."
+  },
+  {
+    "project": "vegetable-sales-modeling",
+    "file": "python/sales_preprocessing.py",
+    "source": "23建模/处理.py",
+    "original_sha256": "6230281eda6011dd70a548a94794272386ee576be933cff5937ee5e214447a45",
+    "changes": "Personal paths sanitized; original logic retained."
+  },
+  {
+    "project": "vegetable-sales-modeling",
+    "file": "python/correlation_filter.py",
+    "source": "23建模/问题1/code/处理.py",
+    "original_sha256": "94e355210ca10a7edf3d218784887c96fe75419f52d004a8681d51b04428fab5",
+    "changes": "Personal paths sanitized; original logic retained."
+  },
+  {
+    "project": "vegetable-sales-modeling",
+    "file": "stata/regression_draft.do",
+    "source": "23建模/reg.do",
+    "original_sha256": "e07ea6382eb2c567f4fbff21244355aeab8f0944fd4a9c01d713b392412ce516",
+    "changes": "Personal paths sanitized; original logic retained."
+  },
+  {
+    "project": "vegetable-sales-modeling",
+    "file": "stata/sales_correlations.do",
+    "source": "23建模/问题1/code/6.1.do",
+    "original_sha256": "454d9a9ef213db095a8756b9fd00ddcad8a185b4e462cd5a2d520b376a939f2f",
+    "changes": "Personal paths sanitized; original logic retained."
+  },
+  {
+    "project": "vegetable-sales-modeling",
+    "file": "stata/category_pie.do",
+    "source": "23建模/问题1/code/饼状图.do",
+    "original_sha256": "0898625ad502cdb81e04a87c6a79430d3030986f6ab86bfa0a4e9c48697cdd03",
+    "changes": "Personal paths sanitized; original logic retained."
+  }
+]
